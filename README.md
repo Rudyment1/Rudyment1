@@ -1,5 +1,5 @@
 ## Hello underprogrammers 👋
-<img align="center" alt="Coding" width="600" src="/fotor-video_remover_object-preview-20240912211719.gif">
+<img align="left" alt="Coding" width="600" src="/fotor-video_remover_object-preview-20240912211719.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
