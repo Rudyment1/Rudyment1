@@ -1,6 +1,5 @@
-<div align="center">
-  
-  ## Hello underprogrammers 👋
+## Hello underprogrammers 👋
+<div align="center">  
   
   <img src="fotor-video_remover_object-preview-20240912211719.gif" width="400" height="300"/>
   
