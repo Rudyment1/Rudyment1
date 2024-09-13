@@ -6,10 +6,10 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/l865492">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegrem"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegrem Badge"/>
   </a>
   <a href="mailto:dvojtenko969@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
