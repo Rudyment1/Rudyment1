@@ -11,8 +11,8 @@
   <a href="mailto:dvojtenko969@gmail.com">
     <img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://discordapp.com/users/715498346743332894/">
+    <img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
